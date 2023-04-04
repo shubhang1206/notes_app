@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             ElevatedButton(
               onPressed: () {},
               child: const Text(
-                'Save',
+                'Saves',
                 style: TextStyle(fontSize: 24),
               ),
             ),
